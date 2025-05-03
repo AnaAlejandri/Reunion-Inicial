@@ -138,18 +138,29 @@ product burndown chart
 Alexis Yahir Becerra Jiménez
 <br>
 <br>
+<br>
+<br>
 Erick Luna Ortiz
+<br>
+<br>
 <br>
 <br>
 El rol de cada participante 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 El calendario de reuniones 
 ![WhatsApp Image 2025-05-03 at 8 49 43 AM](https://github.com/user-attachments/assets/6a43ae56-1e5d-47fd-ba8d-c10393d3d20b)
 
-
+<br>
+<br>
+<br>
+<br>
 
 Las propuestas de modificaciones 
+
