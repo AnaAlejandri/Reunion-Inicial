@@ -129,14 +129,18 @@ Ana Laura Alejandri Rodriguez:
 
 <p>Realizando unas mejoras a este calendario se agrego los enunciados de las historias, quisas no es lo mas correcto por que se busca que sean solo fechas y las actividades a relaizar, pero se considero de mucha ayuda el agregar esto para dar contexto de que trata cada historia y quienes son los responsables, asi mismo se hicieron varios ajustes por lo previamente comentado sobre el cambio de ID de la historia antes conocida como US008 (ahora US007)</p>
 
+sprint burndown chart
+release burndown chart
+product burndown chart
+<br>
 
-
+<br>
 Alexis Yahir Becerra Jiménez
-
-
+<br>
+<br>
 Erick Luna Ortiz
-
-
+<br>
+<br>
 El rol de cada participante 
 
 
