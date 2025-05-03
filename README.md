@@ -4,6 +4,17 @@
 
 # Reunion-Inicial
 
+Sprint y backlog sin modificar
+
+Ana Laura Alejandri Rodriguez
+
+
+Alexis Yahir Becerra Jiménez
+
+
+Erick Luna Ortiz
+
+
 
 Las propuestas de modificaciones 
 
