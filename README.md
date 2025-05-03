@@ -15,11 +15,15 @@ Alexis Yahir Becerra Jiménez
 Erick Luna Ortiz
 
 
+El rol de cada participante 
 
-Las propuestas de modificaciones 
+
+
+
 
 El calendario de reuniones 
 ![WhatsApp Image 2025-05-03 at 8 49 43 AM](https://github.com/user-attachments/assets/6a43ae56-1e5d-47fd-ba8d-c10393d3d20b)
 
 
-El rol de cada participante 
+
+Las propuestas de modificaciones 
