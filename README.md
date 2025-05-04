@@ -138,6 +138,11 @@ product burndown chart
 <br>
 El rol de cada participante 
 
+Los tres Roles son:
+
+a)	Product Owner (PO)-Erick
+b)	ScrumMaster(SM)-Alexis
+c)	Desarrollador-Ana
 
 <br>
 <br>
