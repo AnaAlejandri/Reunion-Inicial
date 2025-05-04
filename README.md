@@ -6,9 +6,9 @@
 
 Sprint y backlog sin modificar
 
-Ana Laura Alejandri Rodriguez:
 
 <h1>SPRINTS</h1>
+
 <h2>Backlog</h2>
 
 ![Captura de pantalla (405)](https://github.com/user-attachments/assets/b97a9e4d-c2e3-4dbf-850e-f84638ab3497)
@@ -164,3 +164,16 @@ El calendario de reuniones
 
 Las propuestas de modificaciones 
 
+
+
+![WhatsApp Image 2025-05-03 at 8 58 19 PM](https://github.com/user-attachments/assets/c8325acc-e7e8-44ce-947e-00fe8f412aca)
+
+![WhatsApp Image 2025-05-03 at 8 58 19 PM (1)](https://github.com/user-attachments/assets/15247900-5953-4e4f-9ffc-1a1c92f4ef97)
+
+![WhatsApp Image 2025-05-03 at 8 58 19 PM (2)](https://github.com/user-attachments/assets/b7b45493-0620-476b-80d8-18a432714f65)
+
+![WhatsApp Image 2025-05-03 at 8 58 20 PM (1)](https://github.com/user-attachments/assets/45631b3e-7217-443c-991d-a04389fa70c3)
+
+
+
+![WhatsApp Image 2025-05-03 at 8 58 20 PM](https://github.com/user-attachments/assets/1235404a-58e2-4f85-a8ed-0c1141ef6e90)
