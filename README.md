@@ -142,6 +142,12 @@ Las propuestas de modificaciones
 
 ![WhatsApp Image 2025-05-03 at 8 58 19 PM (2)](https://github.com/user-attachments/assets/b7b45493-0620-476b-80d8-18a432714f65)
 
+
+![WhatsApp Image 2025-05-03 at 8 58 20 PM (1)](https://github.com/user-attachments/assets/45631b3e-7217-443c-991d-a04389fa70c3)
+
+<br>
+<br>
+
 ![WhatsApp Image 2025-05-04 at 3 48 48 PM](https://github.com/user-attachments/assets/39e0e89f-adc8-4014-a384-4e53c829625a)
 
 
@@ -149,7 +155,6 @@ Las propuestas de modificaciones
 <br>
 
 
-![WhatsApp Image 2025-05-03 at 8 58 20 PM (1)](https://github.com/user-attachments/assets/45631b3e-7217-443c-991d-a04389fa70c3)
 
 ![WhatsApp Image 2025-05-04 at 3 46 49 PM](https://github.com/user-attachments/assets/5188bf11-932d-4f42-a0b4-35189e1a49e7)
 
