@@ -134,16 +134,7 @@ release burndown chart
 product burndown chart
 <br>
 
-<br>
-Alexis Yahir Becerra Jiménez
-<br>
-<br>
-<br>
-<br>
-Erick Luna Ortiz
-<br>
-<br>
-<br>
+
 <br>
 El rol de cada participante 
 
