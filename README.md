@@ -179,3 +179,5 @@ Se decsribe mas a fondo sobre los sepurnts y cambios que seria necesarios correg
 
 
 ![WhatsApp Image 2025-05-03 at 8 58 20 PM](https://github.com/user-attachments/assets/1235404a-58e2-4f85-a8ed-0c1141ef6e90)
+
+Se integra link de github donde se realizo el trabajo:  https://github.com/AnaAlejandri/Reunion-Inicial.git 
