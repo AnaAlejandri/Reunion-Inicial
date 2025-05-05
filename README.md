@@ -134,6 +134,18 @@ El calendario de reuniones
 
 Las propuestas de modificaciones 
 
+Es necesario un sitio web que sirva para la enseñanza y aprendizaje de estudiantes de secundaria y preparatoria, donde podrán acceder sin costo a diversos materiales didácticos que les permitan reforzar lo aprendido en las escuelas. Este proyecto está estipulado para finalizar luego de 4 semanas, teniendo en cuenta que es un poco complejo por la cantidad de estudiantes que podrán ingresar a la plataforma y todos los archivos y materiales educativos que se necesitan subir a la plataforma, sin contar que se requiere de capacitar a los maestros y alumnos para el uso de esta nueva herramienta, pero trabajando en equipo junto con otros desarrolladores podemos lograr realizar varias actividades que permitan concluir este proyecto en un mes.
+<br>
+<br>
+Uno de los cambios a relaizar es la disminucion del tiempo plasmado para este proyecto, ya que la mayoria de los sprints estan estipulados para finalizar dentro de 1 a 4 semanas, aunque puede extenderse segun su complejidad y como se menciona anteriormente se estipulaba un plazo de 14 semanas pero al analizar las diversas historias y tareas se concluyo que s epodia hacer en un menos tiempo.
+
+<br>
+<br>
+
+
+Se decsribe mas a fondo sobre los sepurnts y cambios que seria necesarios corregir o por lo menos considerarlos para un mejor trabajo:
+<br>
+<br>
 
 
 ![WhatsApp Image 2025-05-03 at 8 58 19 PM](https://github.com/user-attachments/assets/c8325acc-e7e8-44ce-947e-00fe8f412aca)
