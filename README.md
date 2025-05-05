@@ -99,32 +99,31 @@
 ![Captura de pantalla (460)](https://github.com/user-attachments/assets/99fc419a-6fc5-4960-af74-93767ebbb13d)
 
 <p>Realizando unas mejoras a este calendario se agrego los enunciados de las historias, quisas no es lo mas correcto por que se busca que sean solo fechas y las actividades a relaizar, pero se considero de mucha ayuda el agregar esto para dar contexto de que trata cada historia y quienes son los responsables, asi mismo se hicieron varios ajustes por lo previamente comentado sobre el cambio de ID de la historia antes conocida como US008 (ahora US007)</p>
-
-sprint burndown chart
-release burndown chart
-product burndown chart
 <br>
 
 
 <br>
-El rol de cada participante 
+<h2></h2>El rol de cada participante</h2>
 
-Los tres Roles son:
+<p>Los tres Roles son:<p>
 
-a)	Product Owner (PO)-Erick<br>
+<p>a)	Product Owner (PO)-Erick</p>
+  <br>
 <br>
-b)	ScrumMaster(SM)-Alexis<br>
+<p>b)	ScrumMaster(SM)-Alexis</p>
+  <br>
 <br>
-c)	Desarrollador-Ana<br>
-<br>
-
-<br>
-<br>
-<br>
+<p>c)	Desarrollador-Ana</p>
+  <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
 
-El calendario de reuniones 
+
+<h3>El calendario de reuniones </h3>
 ![WhatsApp Image 2025-05-03 at 8 49 43 AM](https://github.com/user-attachments/assets/6a43ae56-1e5d-47fd-ba8d-c10393d3d20b)
 
 <br>
@@ -132,18 +131,18 @@ El calendario de reuniones
 <br>
 <br>
 
-Las propuestas de modificaciones 
+<h2>Las propuestas de modificaciones </h2>
 
-Es necesario un sitio web que sirva para la enseñanza y aprendizaje de estudiantes de secundaria y preparatoria, donde podrán acceder sin costo a diversos materiales didácticos que les permitan reforzar lo aprendido en las escuelas. Este proyecto está estipulado para finalizar luego de 4 semanas, teniendo en cuenta que es un poco complejo por la cantidad de estudiantes que podrán ingresar a la plataforma y todos los archivos y materiales educativos que se necesitan subir a la plataforma, sin contar que se requiere de capacitar a los maestros y alumnos para el uso de esta nueva herramienta, pero trabajando en equipo junto con otros desarrolladores podemos lograr realizar varias actividades que permitan concluir este proyecto en un mes.
+<p>Es necesario un sitio web que sirva para la enseñanza y aprendizaje de estudiantes de secundaria y preparatoria, donde podrán acceder sin costo a diversos materiales didácticos que les permitan reforzar lo aprendido en las escuelas. Este proyecto está estipulado para finalizar luego de 4 semanas, teniendo en cuenta que es un poco complejo por la cantidad de estudiantes que podrán ingresar a la plataforma y todos los archivos y materiales educativos que se necesitan subir a la plataforma, sin contar que se requiere de capacitar a los maestros y alumnos para el uso de esta nueva herramienta, pero trabajando en equipo junto con otros desarrolladores podemos lograr realizar varias actividades que permitan concluir este proyecto en un mes.</p>
 <br>
 <br>
-Uno de los cambios a realizar es la disminucion del tiempo plasmado para este proyecto, ya que la mayoria de los sprints estan estipulados para finalizar dentro de 1 a 4 semanas, aunque puede extenderse segun su complejidad y como se menciona anteriormente se estipulaba un plazo de 14 semanas pero al analizar las diversas historias y tareas se concluyo que s epodia hacer en un menos tiempo.
+<p>Uno de los cambios a realizar es la disminucion del tiempo plasmado para este proyecto, ya que la mayoria de los sprints estan estipulados para finalizar dentro de 1 a 4 semanas, aunque puede extenderse segun su complejidad y como se menciona anteriormente se estipulaba un plazo de 14 semanas pero al analizar las diversas historias y tareas se concluyo que s epodia hacer en un menos tiempo.</p>
 
 <br>
 <br>
 
 
-Se decsribe mas a fondo sobre los sepurnts y cambios que seria necesarios corregir o por lo menos considerarlos para un mejor trabajo:
+<p>Se decsribe mas a fondo sobre los sepurnts y cambios que seria necesarios corregir o por lo menos considerarlos para un mejor trabajo:</p>
 <br>
 <br>
 
@@ -180,4 +179,4 @@ Se decsribe mas a fondo sobre los sepurnts y cambios que seria necesarios correg
 
 ![WhatsApp Image 2025-05-03 at 8 58 20 PM](https://github.com/user-attachments/assets/1235404a-58e2-4f85-a8ed-0c1141ef6e90)
 
-Se integra link de github donde se realizo el trabajo:  https://github.com/AnaAlejandri/Reunion-Inicial.git 
+<p>Se integra link de github donde se realizo el trabajo:  https://github.com/AnaAlejandri/Reunion-Inicial.git </p>
