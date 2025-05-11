@@ -5,37 +5,13 @@
 # Reunion-Inicial
 
 
-<p><h2>1. Bitácora de la Reunión y Modificaciones Aplicadas </h2></p>
-<p>Fecha de la reunión: 09 /05/25</p>
-<p>Participantes:</p>
-<p>- Erick Luna Ortiz (Product Owner)</p>
-<p>- Alexis Yahir Becerra Jimines (Scrum Master)</p>
-<p>- Ana Laura Alejandri Rodríguez (Desarrolladora)</p>
-<br><br><br>
-<p><h3>Resumen de la reunión:</h3></p>
-<p>Durante esta sesión, se revisaron las observaciones de la actividad anterior, incluidas las recomendaciones del asesor. A partir de esto se aplicaron ajustes al backlog, cambios en la descripción y organización de los sprints, y actualizaciones en el repositorio de GitHub.</p>
-<br><br><br>
-<p><h2>2. Nuevas Modificaciones Realizadas</h2></p>
-<p>Modificaciones al Backlog:</p>
-<p>- Se eliminó la historia repetida ID-US007.</p>
-<p>- Se reordenaron los ID de las historias para evitar duplicidad.</p>
-<p>- Se detallaron actividades específicas en las historias de usuario.</p>
-<p>- Se agregó una historia sobre la capacitación docente virtual.</p>
-<br><br><br>
-<p><h3>Modificaciones en GitHub:</h3></p>
-<p>- Archivos actualizados reflejando las nuevas historias y correcciones.</p>
-<p>- Documentos del backlog y el Sprint Schedule reestructurados.</p>
-<p>- Nuevos commits con descripciones claras de los cambios.</p>
-<br><br><br>
-<p><h3>Link del repositorio actualizado:</h3></p>
-<p>https://github.com/AnaAlejandri/Reunion-Inicial.git</p>
-<p><h2>3. Backlog actualizado (resumen)</h2></p>
-<p>El backlog actualizado incluye 10 historias de usuario claramente diferenciadas, asignadas según prioridad, con responsables designados, tiempo estimado y entregables claros. Las historias incluyen funcionalidades clave del sitio web educativo como acceso a recursos, interacción docente-estudiante, y soporte técnico.</p>
-<br><br><br>
+
 <h1>SPRINTS</h1>
 
-
-<p>Se puede observar que en la tabla se divide las historias y se describe cada una, en el cronograma se plantean las 14 semanas de incio a fin del proyecto, estipulando en cada tareas los dias que se llevaran a cabo segun lo que se requiera relaizar, teneindo en cuenta que un trabajador no debe de laborar mas de 5 dias a la semana y se debe de dedicar solo 8 horas por dia, segun estipula la ley</p>
+<p>A continuacion se muestra todos los sprints y backlog que se realizaron durante este proyecto, al igual que sus respectivas correcciones que se hizieron a lo largo de este periodo, sin embargo lo que diferenciara este docuemnto es que en la parte del final se hizo unas modificaciones a el ultimo sprint y backlog que se realizo, esto se realizo con el trabajo y el analices por parte de 3 estudiantes, los cuales se dieron la tarea de organizar una reunion para ver que modificaciones se podrian realizar en los trabajos y asi crear un proyecto mas desarrollado y bien estructurado, que abarque aspectos importantes para la implementacion y finalizacion de los poryectos, dichos cambios se veran reflejados en la parte final de este documento y para una mejor comprension se decidio dejar los anteriores trabajos que ayudar a ver todo el proceso que conlleva realizar un sprint y backlog segun la metodologia de SCRUM.</P>
+  <br>
+    <br>
+  <p>Se puede observar que en la tabla se divide las historias y se describe cada una, en el cronograma se plantean las 14 semanas de incio a fin del proyecto, estipulando en cada tareas los dias que se llevaran a cabo segun lo que se requiera relaizar, teneindo en cuenta que un trabajador no debe de laborar mas de 5 dias a la semana y se debe de dedicar solo 8 horas por dia, segun estipula la ley</p>
 
 <h4>Backlog</h4>
 
@@ -149,7 +125,10 @@
 
 
 <h3>El calendario de reuniones </h3>
+
 ![WhatsApp Image 2025-05-03 at 8 49 43 AM](https://github.com/user-attachments/assets/6a43ae56-1e5d-47fd-ba8d-c10393d3d20b)
+
+
 
 <br>
 <br>
