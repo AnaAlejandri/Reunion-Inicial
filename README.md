@@ -210,6 +210,20 @@
 <p><h3>Link del repositorio actualizado:</h3></p>
 <p>https://github.com/AnaAlejandri/Reunion-Inicial.git</p>
 <p><h2>3. Backlog actualizado (resumen)</h2></p>
-<p>El backlog actualizado incluye 10 historias de usuario claramente diferenciadas, asignadas según prioridad, con responsables designados, tiempo estimado y entregables claros. Las historias incluyen funcionalidades clave del sitio web educativo como acceso a recursos, interacción docente-estudiante, y soporte técnico.</p>
+<p>El backlog actualizado incluye 9 historias de usuario claramente diferenciadas, asignadas según prioridad, con responsables designados, tiempo estimado y entregables claros. Las historias incluyen funcionalidades clave del sitio web educativo como acceso a recursos, interacción docente-estudiante, y soporte técnico.</p>
+<br>
+<br>
 
+![Captura de pantalla (1039)](https://github.com/user-attachments/assets/d514bd15-7325-4764-aefa-f70437b4d07b)
+<br>
+<br>
+<h2>Cronograma</h2>h2>
+![Captura de pantalla (1040)](https://github.com/user-attachments/assets/92de335a-b043-4d3a-a577-d594500a1011)
+
+![Captura de pantalla (1041)](https://github.com/user-attachments/assets/6a5061bc-18e9-4fe9-9688-f4ac7f750e27)
+
+![Captura de pantalla (1042)](https://github.com/user-attachments/assets/5cee98d3-fc11-49c1-b5be-075215ebef3a)
+
+<br>
+<br>
 <p>Se integra link de github donde se realizo el trabajo:  https://github.com/AnaAlejandri/Reunion-Inicial.git </p>
