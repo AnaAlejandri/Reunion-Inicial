@@ -181,7 +181,7 @@
 <br>
 
 
-![WhatsApp Image 2025-05-03 at 8 58 20 PM](https://github.com/user-attachments/assets/1235404a-58e2-4f85-a8ed-0c1141ef6e90)
+
 
 <p><h2>1. Bitácora de la Reunión y Modificaciones Aplicadas </h2></p>
 <p>Fecha de la reunión: 09 /05/25</p>
