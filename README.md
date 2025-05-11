@@ -218,6 +218,7 @@
 <br>
 <br>
 <h2>Cronograma</h2>
+
 ![Captura de pantalla (1040)](https://github.com/user-attachments/assets/92de335a-b043-4d3a-a577-d594500a1011)
 
 ![Captura de pantalla (1041)](https://github.com/user-attachments/assets/6a5061bc-18e9-4fe9-9688-f4ac7f750e27)
