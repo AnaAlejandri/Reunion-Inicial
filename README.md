@@ -13,10 +13,10 @@
     <br>  
     
 ![Captura de pantalla (1030)](https://github.com/user-attachments/assets/b85ccbf2-b4bb-4839-a18f-c0caddfca7b6)
-
-
+  <br>
     <br>
-    <br>
+
+  
   <p>Se puede observar que en la tabla se divide las historias y se describe cada una, en el cronograma se plantean las 14 semanas de incio a fin del proyecto, estipulando en cada tareas los dias que se llevaran a cabo segun lo que se requiera relaizar, teneindo en cuenta que un trabajador no debe de laborar mas de 5 dias a la semana y se debe de dedicar solo 8 horas por dia, segun estipula la ley</p>
 
 <h4>Backlog</h4>
