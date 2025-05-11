@@ -224,7 +224,7 @@
 
 <br>
 <br>
-<h2>Liga de Trello/h2>
+<h2>Liga de Trello </h2>
  <p> Para una mejor comprension se decidio subir las tareas en la plataforma Trello, que nos permite visualizar cada historia y la fase del proceso en la que esta</p>
 
   ![Captura de pantalla (1047)](https://github.com/user-attachments/assets/8fa1c575-15e4-4667-95ac-a4dd63124f68)
