@@ -224,9 +224,12 @@
 
 <br>
 <br>
-<h2>Liga de jira/h2>
-  
-<p>Se intrega el link para acepder a jira  </p>
+<h2>Liga de Trello/h2>
+ <p> Para una mejor comprension se decidio subir las tareas en la plataforma Trello, que nos permite visualizar cada historia y la fase del proceso en la que esta</p>
+
+  ![Captura de pantalla (1047)](https://github.com/user-attachments/assets/8fa1c575-15e4-4667-95ac-a4dd63124f68)
+
+<p>Se intrega el link para acepder a Trello: https://trello.com/invite/b/6820ed4dcc4d660326bd7229/ATTI94cffc10373e0c2b4f38f1ff19f9faa12072F38E/tablero </p>
 <br>
 <br>
 <h2>Cronograma</h2>
