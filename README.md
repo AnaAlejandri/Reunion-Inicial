@@ -226,7 +226,7 @@
 <br>
 <h2>Liga de jira/h2>
   
-<p>Se intrega el link para acepder a jira  https://ana23072002alejandri.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiODBlNDcwMTRkZWE4NGM4ODhhZGZlYTQwYTYzZjY4MGQiLCJwIjoiaiJ9 </p>
+<p>Se intrega el link para acepder a jira  </p>
 <br>
 <br>
 <h2>Cronograma</h2>
