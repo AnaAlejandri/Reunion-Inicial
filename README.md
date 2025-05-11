@@ -24,7 +24,7 @@
 
 ![Captura de pantalla (407)](https://github.com/user-attachments/assets/865dcc7c-1dfe-4695-b22f-531d6afa252a)
 
-<p>Se reviso bien los anteriores sprint y se concluyo que era mejor describir los puntos de historia segun la actividad a realizar, se corrigio errores que antes no se habian contemplado y se bsuco ser mas precisos en las historias</p>
+<p>Se reviso bien los anteriores sprint y se concluyo que era mejor describir los puntos de historia segun la actividad a realizar, se corrigio errores que antes no se habian contemplado y se busco ser mas precisos en las historias para no caer en la generalidad</p>
 
 <h4>Sprint 2</h4>
 
