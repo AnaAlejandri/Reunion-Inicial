@@ -224,6 +224,11 @@
 
 <br>
 <br>
+<h2>Liga de jira/h2>
+  
+<p>Se intrega el link para acepder a jira  https://ana23072002alejandri.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiODBlNDcwMTRkZWE4NGM4ODhhZGZlYTQwYTYzZjY4MGQiLCJwIjoiaiJ9 </p>
+<br>
+<br>
 <h2>Cronograma</h2>
 
 ![Captura de pantalla (1040)](https://github.com/user-attachments/assets/92de335a-b043-4d3a-a577-d594500a1011)
