@@ -5,6 +5,60 @@
 # Producto integrador. El final del proceso
 
 
+<h2>Reporte de Modificaciones Realizadas</h2>
+
+<p>Durante el desarrollo del proyecto, se llevaron a cabo diversas modificaciones para mejorar la estructura, funcionalidad y presentación del repositorio. A continuación, se detallan los cambios más significativos:
+
+1. Estructuración del Archivo 
+Objetivo: Mejorar la claridad y organización del contenido para facilitar la comprensión del proyecto.
+
+Cambios realizados:
+
+Se reorganizaron las secciones para seguir una secuencia lógica: introducción, objetivos, metodología, resultados y conclusiones.
+
+Se añadieron encabezados y subencabezados para delimitar claramente cada sección.
+
+Se incorporaron listas con viñetas para enumerar actividades y resultados de manera más visual.
+
+2. Corrección de Enlaces y Recursos
+Objetivo: Asegurar que todos los enlaces y recursos referenciados sean accesibles y estén actualizados.
+
+Cambios realizados:
+
+Se verificaron y corrigieron enlaces rotos o desactualizados.
+
+Se añadieron enlaces a recursos adicionales relevantes para el proyecto.
+
+3. Mejoras en la Presentación Visual
+Objetivo: Hacer el documento más atractivo y fácil de leer.
+
+Cambios realizados:
+
+Se aplicaron estilos de formato para resaltar información clave.
+
+Se incorporaron tablas para presentar datos de manera estructurada.
+
+Se añadieron imágenes y diagramas explicativos donde fue pertinente.
+
+4. Actualización del Código Fuente
+Objetivo: Reflejar las mejoras y correcciones implementadas en el sistema.
+
+Cambios realizados:
+
+Se optimizó el código para mejorar el rendimiento y la eficiencia.
+
+Se documentaron las funciones y módulos para facilitar su comprensión y mantenimiento.
+
+Se implementaron pruebas unitarias para asegurar la funcionalidad del sistema.
+
+5. Documentación de Cambios
+Objetivo: Mantener un registro claro de las modificaciones realizadas.
+
+Cambios realizados:
+
+Se utilizó el sistema de control de versiones de GitHub para documentar cada cambio mediante commits descriptivos.
+
+Se elaboró un changelog detallando las versiones y las modificaciones asociadas a cada una..</p>
 
 <h1>SPRINTS</h1>
 
